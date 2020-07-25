@@ -78,7 +78,7 @@ h1 {
 }
 
 .jumbotron {
-  background: linear-gradient(#ffff99, transparent 95%),
+  background: linear-gradient(#99E1D9, transparent 95%),
   url('clouds.jpg') no-repeat center;
   background-size: cover;
   font-family: verdana !important;
@@ -92,7 +92,7 @@ h1 {
 @media only screen and (max-width: 600px) {
   
   .card {
-    margin-left:100px;
+    margin-left:50px;
     width:90%;
     text-align: center;
     
