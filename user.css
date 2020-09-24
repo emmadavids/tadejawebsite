@@ -76,8 +76,7 @@ h1 {
 }
 
 .jumbotron {
- 
-  url('flowers.jpg') no-repeat center;
+  background: url('flowers.jpg') no-repeat center;
   background-size: cover;
   font-family: verdana !important;
   font-size: 25px !important;
