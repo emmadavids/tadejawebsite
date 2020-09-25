@@ -76,7 +76,7 @@ h1 {
 }
 
 .navbar {
-	max-height: 2.7em;
+	max-height: 2.8em;
 }
 
 .jumbotron { 
@@ -85,7 +85,9 @@ h1 {
   background-size: cover;
   font-family: verdana !important;
   font-size: 25px !important;
-  padding: 9m inherit !important;	
+  padding: 10m inherit !important;	
+  margin-left: -25px;	
+ margin-top: -25px;
 
  
 
