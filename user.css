@@ -9,7 +9,7 @@ body {
   	margin:0;
     height: 100vh;
     position: relative;
-   background-color:#D8F9F7;
+   background-color:#ffffe6;
     
  
 }
@@ -73,6 +73,7 @@ h1 {
 .colly {
   
   float:right;
+	
 }
 
 
@@ -83,7 +84,7 @@ h1 {
   background-size: cover;
   font-family: verdana !important;
   font-size: 25px !important;	
-	min-height: 380px !important;
+	min-height: 310px !important;
 
 
 }
