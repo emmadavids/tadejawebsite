@@ -76,6 +76,11 @@ h1 {
 	
 }
 
+ .col-md {
+	  margin-top: 50px !important;
+    margin-bottom: 50px;
+  }
+
 
 
 .jumbotron { 
