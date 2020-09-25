@@ -75,13 +75,17 @@ h1 {
   float:right;
 }
 
+.navbar {
+	max-height: 1em;
+}
+
 .jumbotron { 
   background: linear-gradient(#ffff99, transparent 97%),
   url('flowers1.jpg') no-repeat center;
   background-size: cover;
   font-family: verdana !important;
   font-size: 25px !important;
-  padding: 8.5em inherit !important;	
+  padding: 9m inherit !important;	
 
  
 
