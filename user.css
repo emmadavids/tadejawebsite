@@ -76,7 +76,7 @@ h1 {
 }
 
 .jumbotron {
-  background: url('flowers1.jpg') no-repeat center;
+  background: linear-gradient(#99E1D9, transparent 95%), url('flowers1.jpg') no-repeat center;
   background-size: cover;
   font-family: verdana !important;
   font-size: 25px !important;
