@@ -75,14 +75,15 @@ h1 {
   float:right;
 }
 
-.jumbotron {
-  background: linear-gradient(#99E1D9, transparent 95%) url('flowers1.jpg') no-repeat center;
+.jumbotron { 
+  background: linear-gradient(#ffff99, transparent 95%),
+  url('flowers1.jpg') no-repeat center;
   background-size: cover;
   font-family: verdana !important;
   font-size: 25px !important;
  
 
- 
+
 }
 
 
