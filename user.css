@@ -9,7 +9,7 @@ body {
   	margin:0;
     height: 100vh;
     position: relative;
-   background-color:white;
+   background-color:#D8F9F7;
     
  
 }
@@ -83,7 +83,7 @@ h1 {
   background-size: cover;
   font-family: verdana !important;
   font-size: 25px !important;	
-	min-height: 200px !important;
+	min-height: 380px !important;
 
 
 }
@@ -98,6 +98,7 @@ h1 {
     
   }
   .col-md {
+	  margin-top: 50px;
     margin-bottom: 50px;
   }
 }
