@@ -82,8 +82,8 @@ h1 {
   url('flowers1.jpg') no-repeat center;
   background-size: cover;
   font-family: verdana !important;
-  font-size: 25px !important;
-  padding: 50em inherit !important;	
+  font-size: 25px !important;	
+	min-height: 500px !important;
 
 
 }
