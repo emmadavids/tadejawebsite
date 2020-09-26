@@ -24,8 +24,8 @@ body {
 
 h1 {
   position: absolute;
-  right: 0px;
-  top: 0px;
+  right: 30px;
+  top: 10px;
   z-index: 1;
 }	
 	
