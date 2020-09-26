@@ -98,13 +98,14 @@ h1 {
 
 .collapse {
 display: flex;
-justify-content: space-around;
+justify-content: space-between;
 	
 }
 
 .navbar {
 display: flex;
 justify-content: space-around;
+	
 	
 }
 
