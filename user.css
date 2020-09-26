@@ -95,7 +95,11 @@ h1 {
     margin-bottom: 50px;
 	 padding-top: 50px !important;
   }
-
+.collapse {
+display: flex;
+justify-content: space-around;
+	
+}
 
 
 .jumbotron { 
