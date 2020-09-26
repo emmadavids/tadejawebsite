@@ -14,12 +14,6 @@ body {
  
 }
 
-.collapse {
-	 position: absolute;
-  right: 0px;
-  top: 0px;
-  z-index: 0;
-}
 
 
 h1 {
