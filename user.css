@@ -77,8 +77,9 @@ h1 {
 }
 
  .col-md {
-	  margin-top: 50px !important;
+	  margin-top: 10px !important;
     margin-bottom: 50px;
+	 padding-top: 50px !important;
   }
 
 
