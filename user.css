@@ -105,6 +105,7 @@ display: flex;
 	 position: fixed;
   top: 0;
   width: 100%;
+	 z-index: 2;
 	
 	
 	
@@ -112,12 +113,12 @@ display: flex;
 
 
 .jumbotron { 
-  background: linear-gradient(#FBFAD8, transparent 97%),
+  background: linear-gradient(#FBFAD8, transparent 95%),
   url('flowers2.jpg') no-repeat center;
   background-size: cover;
   font-family: verdana !important;
   font-size: 25px !important;	
-	min-height: 280px !important;
+	min-height: 310px !important;
 
 
 }
