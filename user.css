@@ -98,15 +98,14 @@ h1 {
 	 padding-top: 50px !important;
   }
 
-.collapse {
-display: flex;
-justify-content: space-around;
-	
-}
 
 .navbar {
 display: flex;
-justify-content: space-around;
+
+	 position: fixed;
+  top: 0;
+  width: 100%;
+	
 	
 	
 }
