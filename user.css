@@ -34,7 +34,11 @@ header {
 }
 
 
-
+a:hover {
+  background-color: white;
+ text-transform: uppercase;
+	
+}
 
 a {
 	text-decoration: none;
