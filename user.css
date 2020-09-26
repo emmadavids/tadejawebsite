@@ -14,7 +14,9 @@ body {
  
 }
 
-
+li {
+	padding: 10px;
+}
 
 h1 {
   position: absolute;
@@ -98,13 +100,13 @@ h1 {
 
 .collapse {
 display: flex;
-justify-content: space-between;
+justify-content: space-around;
 	
 }
 
 .navbar {
 display: flex;
-justify-content: space-between;
+justify-content: space-around;
 	
 	
 }
