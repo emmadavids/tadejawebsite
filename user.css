@@ -169,12 +169,22 @@ h1 {
 
   font-family: verdana, helvetica !important;
 background-color: #fff2ac;
-    background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%, transparent 60%);
-	font-weight: 900;
+    background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%, transparent 70%);
+	font-weight: bold;
   
 
 }
 
+	.jumbotron { 
+  background: linear-gradient(#FBFAD8, transparent 98%),
+  url('flowers2.jpg') no-repeat center;
+  background-size: cover;
+  font-family: verdana, helvetica !important;
+  font-size: 25px !important;	
+	min-height: 310px !important;
+
+
+}
 
  .col-md {
 	  margin-top: 30px;
