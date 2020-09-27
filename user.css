@@ -86,6 +86,13 @@ h1 {
 
 }
 
+.subhead {
+  position: absolute;
+  right: 45px;
+  top: 150px;
+  z-index: 1;
+}
+
 .colly {
   
   float:right;
@@ -170,7 +177,7 @@ display: flex;
 @media only screen and (max-width: 500px) {	
 h1 { 
 
-  font-family: verdana, helvetica !important;
+  font-family: arial black, helvetica !important;
 background-color: #fff2ac;
     background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%, transparent 70%);
 	font-weight: bold !important;
@@ -182,7 +189,7 @@ background-color: #fff2ac;
   background: linear-gradient(#FBFAD8, transparent 98%),
   url('flowers2.jpg') no-repeat center;
   background-size: cover;
-  font-family: verdana, helvetica !important;
+  font-family: arial black, helvetica !important;
   font-size: 25px !important;	
 		font-weight: bold !important;
 	min-height: 310px !important;
