@@ -89,7 +89,8 @@ h1 {
 .subhead {
   position: absolute;
   right: 45px;
-  top: 150px;
+  top: 170px;
+	  font-family: "Arial Black" !important;
   z-index: 1;
 }
 
