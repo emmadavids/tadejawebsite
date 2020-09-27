@@ -137,3 +137,15 @@ display: flex;
     margin-bottom: 50px;
   }
 }
+
+.jumbotron { 
+  background: linear-gradient(#FBFAD8, transparent 95%),
+  url('flowers2.jpg') no-repeat center;
+  background-size: cover;
+  font-family: verdana, helvetica !important;
+	background-color: #FBFAD8;
+  font-size: 25px !important;	
+	min-height: 310px !important;
+
+
+}
