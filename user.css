@@ -149,7 +149,7 @@ display: flex;
 }
 
 .jumbotron { 
-  background: linear-gradient(#FBFAD8, transparent 99%),
+  background: linear-gradient(#FBFAD8, transparent 96%),
   url('flowers2.jpg') no-repeat center;
   background-size: cover;
   font-family: verdana, helvetica !important;
