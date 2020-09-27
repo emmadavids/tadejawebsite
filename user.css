@@ -143,7 +143,8 @@ display: flex;
   url('flowers2.jpg') no-repeat center;
   background-size: cover;
   font-family: verdana, helvetica !important;
-	background-color: #FBFAD8;
+background-color: #fff2ac;
+    background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);
   font-size: 25px !important;	
 	min-height: 310px !important;
 
