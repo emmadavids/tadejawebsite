@@ -21,7 +21,7 @@ li {
 h1 {
   position: absolute;
   right: 45px;
-  top: 125px;
+  top: 110px;
   z-index: 1;
 }	
 	
@@ -89,7 +89,7 @@ h1 {
 .subhead {
   position: absolute;
   right: 45px;
-  top: 200px;
+  top: 150px;
   z-index: 1;
 }
 
