@@ -122,7 +122,7 @@ display: flex;
 
 .jumbotron { 
   background: linear-gradient(#FBFAD8, transparent 93%),
-  url('flowers2.jpg') no-repeat center;
+  url('flowerss.jpg') no-repeat center;
   background-size: cover;
   font-family: verdana !important;
   font-size: 25px !important;	
@@ -151,7 +151,7 @@ display: flex;
 
 .jumbotron { 
   background: linear-gradient(#FBFAD8, transparent 96%),
-  url('flowers2.jpg') no-repeat center;
+  url('flowerss.jpg') no-repeat center;
   background-size: cover;
   font-family: verdana, helvetica !important;
   font-size: 25px !important;	
@@ -188,7 +188,7 @@ background-color: #fff2ac;
 
 	.jumbotron { 
   background: linear-gradient(#FBFAD8, transparent 99%),
-  url('flowers2.jpg') no-repeat center;
+  url('flowerss.jpg') no-repeat center;
   background-size: cover;
   font-family: arial black, helvetica !important;
   font-size: 25px !important;	
